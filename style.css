@@ -1,0 +1,56 @@
+h1,h2,h3,h4,h5,h6{
+    color:#252B42;
+}
+p{
+    color:#737373;
+}
+
+
+.hero{
+    background-image: url("./images/hero.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+.text-olive{
+    color:#96BB7C;
+}
+.btn-outline{
+    border: 1px solid #96BB7C;
+    color:#96BB7C;
+}
+.list-style{
+    list-style-type: none;
+    text-decoration: none;
+}
+/*section*/
+.bg-6{
+    background-color: rgb(251, 236, 236);
+}
+.btn-olive{
+    background-color: #96BB7C;
+    color:#fff;
+}
+.btn-radius{
+    border-radius: 37px;
+}
+.img-size{
+    height:128px;
+    width:128px;
+
+}
+.line{
+    width:100px;
+    height:3px;
+    background-color: red;
+    margin:10px;
+}
+.img-size{
+    width: 72px;
+    height: 72px;
+}
+/*footer*/
+.text-capitalize{
+    text-transform: capitalize;
+
+}
